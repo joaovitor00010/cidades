@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+}
+
+
+img{
+    border: rgb(2, 50, 105) 5px solid;
+    height: 500px;
+    width: 500px;
+    border-radius: 30px;
+}
